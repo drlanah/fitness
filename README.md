@@ -20,9 +20,9 @@
   ### Installation
 
   * In terminal, run the following commands: 
-        1. git clone https://github.com/drlanah/fitness.git
-        2. npm i
-        3. node server.js
+      1. git clone https://github.com/drlanah/fitness.git
+      2. npm i
+      3. node server.js
   * Then in a browser, open the following: http://localhost:8000
   * Heroku link: https://floating-eyrie-76021.herokuapp.com/
 
