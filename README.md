@@ -11,7 +11,7 @@
   6. [Contact](#contact)
 
   ### Preview
-  ![fitness app](fitness.gif)
+  ![fitness app](/assets/fitness.gif)
 
   ### Description
 
@@ -20,13 +20,13 @@
   ### Installation
 
   In terminal, run the following commands: 
-       * git clone https://github.com/drlanah/fitness.git
-       * npm i
-       * node server.js
+  * git clone https://github.com/drlanah/fitness.git
+  * npm i
+  * node server.js
   In browser, open the following:
-       * http://localhost:8000
+  * http://localhost:8000
   Or, open the following Heroku link:
-       * https://floating-eyrie-76021.herokuapp.com/
+  * https://floating-eyrie-76021.herokuapp.com/
 
   ### Usage
   * Select "New Workout"
