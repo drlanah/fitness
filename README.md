@@ -3,14 +3,14 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ### Table of Contents 
-  1. [Preview] (#preview)
+  1. [Demo] (#demo)
   2. [Description](#description)
   3. [Installation](#installation)
   4. [Usage](#usage)
   5. [License](#license)
   6. [Contact](#contact)
 
-  ### Preview
+  ### Demo
   ![fitness app](/assets/fitness.gif)
 
   ### Description
@@ -19,14 +19,12 @@
 
   ### Installation
 
-  In terminal, run the following commands: 
-  * git clone https://github.com/drlanah/fitness.git
-  * npm i
-  * node server.js
-  In browser, open the following:
-  * http://localhost:8000
-  Or, open the following Heroku link:
-  * https://floating-eyrie-76021.herokuapp.com/
+  * In terminal, run the following commands: 
+      1. git clone https://github.com/drlanah/fitness.git
+      2. npm i
+      3. node server.js
+  * Then in a browser, open the following: http://localhost:8000
+  * Heroku link: https://floating-eyrie-76021.herokuapp.com/
 
   ### Usage
   * Select "New Workout"
